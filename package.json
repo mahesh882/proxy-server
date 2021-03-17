@@ -10,6 +10,6 @@
   "author": "Mahesh Talaviya",
   "license": "ISC",
   "dependencies": {
-    "cors-anywhere": "^0.4.3"
+    "cors-origin": "^0.4.4"
   }
 }
